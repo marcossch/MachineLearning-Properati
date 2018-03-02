@@ -1,5 +1,5 @@
-# MachineLearning
-Organización de Datos - TP2
-Rodrigo De Rosa 97799 rodrigoderosa@outlook.com
-Marcos Schapira 97934 schapiramarcos@gmail.com
-Facundo Guerrero 97981 facundoiguerrero@gmail.com
+# TP2 ORGANIZACION DE DATOS 75.06
+
+## MachineLearning - Properati
+
+Se realizaron pruebas con distintos algoritmos de Machine Learning para predecir el valor de las propiedades en base a los datos de las mismas (obtenidos del registro de propiedades de la empresa Properati).
